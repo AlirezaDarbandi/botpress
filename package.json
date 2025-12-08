@@ -96,7 +96,7 @@
     "socket.io-redis": "^5.2.0",
     "socketio-jwt": "^4.5.0",
     "tar": "^4.4.6",
-    "tmp": "^0.0.33",
+    "tmp": "^0.2.4",
     "universal-analytics": "^0.4.20",
     "unzipper": "^0.10.3",
     "verror": "^1.10.0",
