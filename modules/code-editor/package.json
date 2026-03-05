@@ -23,7 +23,7 @@
     "mobx": "^5.10.1",
     "mobx-react": "^6.1.1",
     "monaco-editor": "^0.21.2",
-    "multer": "^1.4.2",
+    "multer": "^2.1.1",
     "prettier": "^1.19.1",
     "react-icons": "^3.8.0",
     "yn": "^4.0.0"
